@@ -13,10 +13,11 @@ make install
 make run LISTEN=8080
 ````
 It sets up a server with following API:
-`POST /foo`      returns a new session number for key `foo`
-`GET /foo`       shows active session numbers for key `foo`
-`DELETE /foo/n`  frees session number `n` for key `foo`
-`DELETE /foo`    frees all session numbers for key `foo` 
+
+ - `POST /foo`      returns a new session number for key `foo`
+ - `GET /foo`       shows active session numbers for key `foo`
+ - `DELETE /foo/n`  frees session number `n` for key `foo`
+ - `DELETE /foo`    frees all session numbers for key `foo` 
 
 ### Example 
 ````
