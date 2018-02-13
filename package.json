@@ -1,5 +1,5 @@
 {
-  "name": "close-qaurters",
+  "name": "the-more-the-merrier",
   "version": "0.0.1",
   "description": "A naive sessions counter to avoid conflicting requests to shared resources",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergets/close-quarters.git"
+    "url": "git+https://github.com/sergets/the-more-the-merrier.git"
   },
   "author": "Sergey Tsibulsky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sergets/close-quarters/issues"
+    "url": "https://github.com/sergets/the-more-the-merrier/issues"
   },
-  "homepage": "https://github.com/sergets/close-quarters#readme",
+  "homepage": "https://github.com/sergets/the-more-the-merrier#readme",
   "dependencies": {
     "forever": "0.15.3"
   }
