@@ -1,4 +1,4 @@
-# the-more-the-merrier
+# the-more-the-merrier [![npm module](https://img.shields.io/npm/v/the-more-the-merrier.svg?style=flat)](https://www.npmjs.com/package/the-more-the-merrier)
 A naive sessions counter to avoid conflicting requests to shared resources.
 
 Imagine you need to simultaneously test several instances of frontend that are assigned to the same huge backend (and it is hard to create another instance of that backend). You want to prevent two or more instances from altering same data objects on the backend.
