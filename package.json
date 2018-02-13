@@ -1,0 +1,22 @@
+{
+  "name": "close-qaurters",
+  "version": "0.0.1",
+  "description": "A naive sessions counter to avoid conflicting requests to shared resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergets/close-quarters.git"
+  },
+  "author": "Sergey Tsibulsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergets/close-quarters/issues"
+  },
+  "homepage": "https://github.com/sergets/close-quarters#readme",
+  "dependencies": {
+    "forever": "0.15.3"
+  }
+}
